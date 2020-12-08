@@ -16,8 +16,11 @@
   "keywords": [],
   "homepage": "https://shark764.github.io/react-app-from-scratch",
   "dependencies": {
+    "axios": "^0.21.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-query": "^2.26.4",
+    "react-query-devtools": "^2.6.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
@@ -29,6 +32,7 @@
     "gh-pages": "^3.1.0",
     "html-loader": "^1.3.2",
     "html-webpack-plugin": "^4.5.0",
+    "react-json-pretty": "^2.2.0",
     "style-loader": "^2.0.0",
     "webpack": "^5.10.0",
     "webpack-cli": "^4.2.0",
